@@ -1,0 +1,9 @@
+/discharge_data/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Notebooks
+.ipynb_checkpoints
