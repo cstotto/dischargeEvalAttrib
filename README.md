@@ -17,7 +17,7 @@ conda env create -f dependencies/dischargeEvalAttrib.yml --name dischargeEnv
 to create a conda environment with the name **dischargeEnv**.
 
 ## Execution
-1. Create a folder **discharge_data** in **dischargeEvalAttrib**. Download the zip-archives with the discharge data from [this]([url](https://zenodo.org/records/13839054)) zenodo repository and unpack them into the folder **discharge_data**. (You have to be granted access first.)
+1. Create a folder **discharge_data** in **dischargeEvalAttrib**. Download the zip-archives with the discharge data from [this](https://zenodo.org/records/13839054) zenodo repository and unpack them into the folder **discharge_data**. (You have to be granted access first.)
 2. Activate the conda environment with
 ```
 conda activate dischargeEnv
